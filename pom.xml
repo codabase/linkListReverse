@@ -5,7 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.codabase.reverseLinkList</groupId>
-    <artifactId>reverseLinkList</artifactId>
+    <artifactId>reverseLinkList
+    </artifactId>
     <version>1.0-SNAPSHOT</version>
     <parent>
         <groupId>org.springframework.boot</groupId>
