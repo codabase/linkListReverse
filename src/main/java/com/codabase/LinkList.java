@@ -61,13 +61,13 @@ class LinkList {
     private static void printLinkList(LinkList linkList) {
         Node node = linkList.getHead();
         int i=0;
-        System.out.println("Node\t\tValue ");
         while (node!=null)
         {
             i++;
-            System.out.println(String.format("%s\t\t%s",i,node.getData()));
+            System.out.print(String.format("%s,",node.getData()));
             node = node.getNext();
         }
+        System.out.println("Done");
     }
 
 }
