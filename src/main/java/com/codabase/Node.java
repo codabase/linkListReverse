@@ -1,4 +1,6 @@
- class Node {
+package com.codabase;
+
+class Node {
      private Node next;
      private int data;
 
